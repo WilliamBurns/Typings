@@ -1,0 +1,8 @@
+{
+  "name": "uuid-validate",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/WilliamBurns/Typings",
+  "dependencies": {
+  },
+  "version": "0.0.2"
+}
